@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="edit_message">请输入内容</string>
+    <string name="send_button">发送</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
